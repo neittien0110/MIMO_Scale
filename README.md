@@ -20,3 +20,7 @@ Multi Input Multi Output Scale
 |Oled 0.91"|1|
 |3.7v Battery Charge Module|1|
 |DIY PCB|1|
+
+## Simulation
+   
+   <https://wokwi.com/projects/396637833124427777>
