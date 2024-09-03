@@ -20,3 +20,11 @@ Multi Input Multi Output Scale
 |Oled 0.91"|1|
 |3.7v Battery Charge Module|1|
 |DIY PCB|1|
+
+## Schematics
+
+![Schematic](./MIMO_Scale_Schematic.png)\
+![PCB](./MIMO_Scale_PCB.png)
+![3D front](./MIMO_Scale_3D_front.png)
+![3D rear](./MIMO_Scale_3D_rear.png)
+
