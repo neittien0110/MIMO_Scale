@@ -28,3 +28,6 @@ Multi Input Multi Output Scale
 ![3D front](./assets/MIMO_Scale_3D_front.png)
 ![3D rear](./assets/MIMO_Scale_3D_rear.png)
 
+## Simulation
+
+   <https://wokwi.com/projects/396637833124427777>
