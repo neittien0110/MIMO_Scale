@@ -23,8 +23,8 @@ Multi Input Multi Output Scale
 
 ## Schematics
 
-![Schematic](./MIMO_Scale_Schematic.png)\
-![PCB](./MIMO_Scale_PCB.png)
-![3D front](./MIMO_Scale_3D_front.png)
-![3D rear](./MIMO_Scale_3D_rear.png)
+![Schematic](./assets/MIMO_Scale_Schematic.png)\
+![PCB](./assets/MIMO_Scale_PCB.png)
+![3D front](./assets/MIMO_Scale_3D_front.png)
+![3D rear](./assets/MIMO_Scale_3D_rear.png)
 
